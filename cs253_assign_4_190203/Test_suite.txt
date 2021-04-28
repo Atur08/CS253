@@ -1,0 +1,14 @@
+Registered Users up till now - 
+USERNAME  EMAIL-ID  PASSWORD
+12          12@12       12
+23          23@23       23
+34          34@34       34
+
+Message that shows up when you enter any of above credentials -
+TOP SECRET : Alien has escaped from Area 51
+
+Message that shows up when you enter just any random credentials -
+Wrong credentials
+
+Message that shows up when you enter username=' or 2=2--  and any random string as password- 
+TOP SECRET : Alien has escaped from Area 51
