@@ -5,7 +5,7 @@ can be exploited using **SQL Injection** vulnerability, and showed how to preven
 
 Languages used are **HTML, PHP and MySQL**. 
 
-# Directory Structure
+## Directory Structure
 HTML / PHP files 
 - **login.php** - Handles the login page
 - **registration.php** - Handles the registration page
