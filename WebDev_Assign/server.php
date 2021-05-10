@@ -3,7 +3,7 @@
 session_start();
     
 // connect to db
-$db = mysqli_connect('localhost', 'root','', 'Test') or die("database not connected"); 
+$db = mysqli_connect('localhost', 'root','', 'Test') or die("databas e not connected"); 
 
 // register users
 
