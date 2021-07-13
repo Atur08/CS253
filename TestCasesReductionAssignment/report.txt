@@ -1,0 +1,42 @@
+1. How to generate random numbers in bash - https://stackoverflow.com/questions/1194882/how-to-generate-random-number-in-bash/1195035
+
+2. Learned file handling in python - https://www.w3schools.com/python/python_file_open.asp
+
+3. generate.sh 
+    a. creates T.txt 
+    b. since $RANDOM creates till 2^16, we multiply it with another $RANDOM to cover our range of 2^32
+    c. we create a for loop that runs for 'n' times and add two random numbers to T.txt
+
+4. reduce.sh 
+    a. first find all the branches of the program -> stored in ALL_BRANCHES.txt 
+    b. then find what branches are executed by each test case -> stored in branches.txt
+    c. make 2 files - S (test-suite which will contain k test-cases)
+                    - record.txt (store what branches are left to be executed after running each test case among k cases)
+    d. run the python file giving the args - T(Test cases) and k 
+
+5. script.py 
+    basically first imported all the necessary files/data from the environment needed
+    to run the algorithm hinted in the research paper. 
+    Then implemented the algorithm. 
+    Algorithm - 
+    -Choose that test which covers most of the uncovered branches. 
+    -keep choosing like this till you have k tests 
+    Close all the files finally
+
+6. By running the check.sh on T and S, we can find the final branch coverage by those 2.  
+
+7. Learned basic python file handling and python data structures functionalitites.
+
+How to run - 
+1. generate.sh 
+	./generate.sh test/P.cpp <value_of_n>  
+2. reduce.sh 
+	./reduce.sh test/P.cpp T <value_of_k>
+3. check.sh 
+	./check.sh test/P.cpp <test_case_file> <file_in_which_want_progress>
+
+
+Citing the research paper here - 
+G. Rothermel, R. H. Untch, Chengyun Chu and M. J. Harrold, "Test case prioritization: an empirical study," 
+Proceedings IEEE International Conference on Software Maintenance - 1999 (ICSM'99). 'Software Maintenance for Business Change' 
+(Cat. No.99CB36360), Oxford, UK, 1999, pp. 179-188, doi: 10.1109/ICSM.1999.792604

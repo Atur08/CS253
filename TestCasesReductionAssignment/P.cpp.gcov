@@ -1,0 +1,471 @@
+        -:    0:Source:test/P.cpp
+        -:    0:Graph:P.gcno
+        -:    0:Data:P.gcda
+        -:    0:Runs:10
+        -:    0:Programs:1
+        -:    1:#include <iostream>
+        -:    2:using namespace std; 
+        -:    3:
+function main called 10 returned 100% blocks executed 98%
+       10:    4:int main()
+        -:    5:{
+       10:    6:    int a = 0, b = 0;
+       10:    7:    cin >> a >> b;
+call    0 returned 10
+branch  1 taken 10 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 10
+branch  4 taken 10 (fallthrough)
+branch  5 taken 0 (throw)
+       10:    8:    int c = a-b, d = a+b; 
+        -:    9:   
+       10:   10:    if (c >= 0)
+branch  0 taken 6 (fallthrough)
+branch  1 taken 4
+        -:   11:    {
+        6:   12:        if (d % 2 == 0) cout << "[message] c >= 0 && d div by 2"
+branch  0 taken 3 (fallthrough)
+branch  1 taken 3
+        3:   13:                      << "\n";
+call    0 returned 3
+branch  1 taken 3 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 3
+branch  4 taken 3 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   14:        else cout << "[message] c >= 0 && d not div by 2"
+        3:   15:                      << "\n";
+call    0 returned 3
+branch  1 taken 3 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 3
+branch  4 taken 3 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   16:
+        6:   17:        if (d % 3 == 0) cout << "[message] c >= 0 && d div by 3"
+branch  0 taken 3 (fallthrough)
+branch  1 taken 3
+        3:   18:                      << "\n";
+call    0 returned 3
+branch  1 taken 3 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 3
+branch  4 taken 3 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   19:        else cout << "[message] c >= 0 && d not div by 3"
+        3:   20:                      << "\n";
+call    0 returned 3
+branch  1 taken 3 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 3
+branch  4 taken 3 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   21:
+        6:   22:        if (d % 4 == 0) cout << "[message] c >= 0 && d div by 4"
+branch  0 taken 2 (fallthrough)
+branch  1 taken 4
+        2:   23:                      << "\n";
+call    0 returned 2
+branch  1 taken 2 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 2
+branch  4 taken 2 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   24:        else cout << "[message] c >= 0 && d not div by 4"
+        4:   25:                      << "\n"; 
+call    0 returned 4
+branch  1 taken 4 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 4
+branch  4 taken 4 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   26:
+        6:   27:        if (d % 5 == 0) cout << "[message] c >= 0 && d div by 5"
+branch  0 taken 1 (fallthrough)
+branch  1 taken 5
+        1:   28:                      << "\n";
+call    0 returned 1
+branch  1 taken 1 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 1
+branch  4 taken 1 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   29:        else cout << "[message] c >= 0 && d not div by 5"
+        5:   30:                      << "\n";
+call    0 returned 5
+branch  1 taken 5 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 5
+branch  4 taken 5 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   31:        
+        6:   32:        if (d % 6 == 0) cout << "[message] c >= 0 && d div by 6"
+branch  0 taken 2 (fallthrough)
+branch  1 taken 4
+        2:   33:                      << "\n";
+call    0 returned 2
+branch  1 taken 2 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 2
+branch  4 taken 2 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   34:        else cout << "[message] c >= 0 && d not div by 6"
+        4:   35:                      << "\n";
+call    0 returned 4
+branch  1 taken 4 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 4
+branch  4 taken 4 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   36:        
+        6:   37:        if (d % 7 == 0) cout << "[message] c >= 0 && d div by 7"
+branch  0 taken 1 (fallthrough)
+branch  1 taken 5
+        1:   38:                      << "\n";
+call    0 returned 1
+branch  1 taken 1 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 1
+branch  4 taken 1 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   39:        else cout << "[message] c >= 0 && d not div by 7"
+        5:   40:                      << "\n";
+call    0 returned 5
+branch  1 taken 5 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 5
+branch  4 taken 5 (fallthrough)
+branch  5 taken 0 (throw)
+        6:   41:        if (d % 8 == 0) cout << "[message] c >= 0 && d div by 8"
+branch  0 taken 1 (fallthrough)
+branch  1 taken 5
+        1:   42:                      << "\n";
+call    0 returned 1
+branch  1 taken 1 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 1
+branch  4 taken 1 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   43:        else cout << "[message] c >= 0 && d not div by 8"
+        5:   44:                      << "\n";
+call    0 returned 5
+branch  1 taken 5 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 5
+branch  4 taken 5 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   45:
+        6:   46:        if (d % 9 == 0) cout << "[message] c >= 0 && d div by 9"
+branch  0 taken 2 (fallthrough)
+branch  1 taken 4
+        2:   47:                      << "\n";
+call    0 returned 2
+branch  1 taken 2 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 2
+branch  4 taken 2 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   48:        else cout << "[message] c >= 0 && d not div by 9"
+        4:   49:                      << "\n";
+call    0 returned 4
+branch  1 taken 4 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 4
+branch  4 taken 4 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   50:
+        6:   51:        if (d % 10 == 0) cout << "[message] c >= 0 && d div by 10"
+branch  0 taken 1 (fallthrough)
+branch  1 taken 5
+        1:   52:                      << "\n";
+call    0 returned 1
+branch  1 taken 1 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 1
+branch  4 taken 1 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   53:        else cout << "[message] c >= 0 && d not div by 10"
+        5:   54:                      << "\n";
+call    0 returned 5
+branch  1 taken 5 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 5
+branch  4 taken 5 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   55:
+        6:   56:        if (d % 11 == 0) cout << "[message] c >= 0 && d div by 11"
+branch  0 taken 1 (fallthrough)
+branch  1 taken 5
+        1:   57:                      << "\n";
+call    0 returned 1
+branch  1 taken 1 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 1
+branch  4 taken 1 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   58:        else cout << "[message] c >= 0 && d not div by 11"
+        5:   59:                      << "\n";
+call    0 returned 5
+branch  1 taken 5 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 5
+branch  4 taken 5 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   60:    }
+        -:   61:    else
+        -:   62:    {
+        4:   63:         if (d % 2 == 0) cout << "[message] c < 0 && d div by 2"
+branch  0 taken 3 (fallthrough)
+branch  1 taken 1
+        3:   64:                      << "\n";
+call    0 returned 3
+branch  1 taken 3 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 3
+branch  4 taken 3 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   65:        else cout << "[message] c < 0 && d not div by 2"
+        1:   66:                      << "\n";
+call    0 returned 1
+branch  1 taken 1 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 1
+branch  4 taken 1 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   67:
+        4:   68:        if (d % 3 == 0) cout << "[message] c < 0 && d div by 3"
+branch  0 taken 2 (fallthrough)
+branch  1 taken 2
+        2:   69:                      << "\n";
+call    0 returned 2
+branch  1 taken 2 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 2
+branch  4 taken 2 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   70:        else cout << "[message] c < 0 && d not div by 3"
+        2:   71:                      << "\n";
+call    0 returned 2
+branch  1 taken 2 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 2
+branch  4 taken 2 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   72:
+        4:   73:        if (d % 4 == 0) cout << "[message] c < 0 && d div by 4"
+branch  0 taken 2 (fallthrough)
+branch  1 taken 2
+        2:   74:                      << "\n";
+call    0 returned 2
+branch  1 taken 2 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 2
+branch  4 taken 2 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   75:        else cout << "[message] c < 0 && d not div by 4"
+        2:   76:                      << "\n";
+call    0 returned 2
+branch  1 taken 2 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 2
+branch  4 taken 2 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   77:        
+        4:   78:        if (d % 5 == 0) cout << "[message] c < 0 && d div by 5"
+branch  0 taken 1 (fallthrough)
+branch  1 taken 3
+        1:   79:                      << "\n";
+call    0 returned 1
+branch  1 taken 1 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 1
+branch  4 taken 1 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   80:        else cout << "[message] c < 0 && d not div by 5"
+        3:   81:                      << "\n";
+call    0 returned 3
+branch  1 taken 3 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 3
+branch  4 taken 3 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   82:        
+        4:   83:        if (d % 6 == 0) cout << "[message] c < 0 && d div by 6"
+branch  0 taken 2 (fallthrough)
+branch  1 taken 2
+        2:   84:                      << "\n";
+call    0 returned 2
+branch  1 taken 2 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 2
+branch  4 taken 2 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   85:        else cout << "[message] c < 0 && d not div by 6"
+        2:   86:                      << "\n";
+call    0 returned 2
+branch  1 taken 2 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 2
+branch  4 taken 2 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   87:        
+        4:   88:        if (d % 7 == 0) cout << "[message] c < 0 && d div by 7"
+branch  0 taken 2 (fallthrough)
+branch  1 taken 2
+        2:   89:                      << "\n";
+call    0 returned 2
+branch  1 taken 2 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 2
+branch  4 taken 2 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   90:        else cout << "[message] c < 0 && d not div by 7"
+        2:   91:                      << "\n";
+call    0 returned 2
+branch  1 taken 2 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 2
+branch  4 taken 2 (fallthrough)
+branch  5 taken 0 (throw)
+        4:   92:        if (d % 8 == 0) cout << "[message] c < 0 && d div by 8"
+branch  0 taken 1 (fallthrough)
+branch  1 taken 3
+        1:   93:                      << "\n";
+call    0 returned 1
+branch  1 taken 1 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 1
+branch  4 taken 1 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   94:        else cout << "[message] c < 0 && d not div by 8"
+        3:   95:                      << "\n";
+call    0 returned 3
+branch  1 taken 3 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 3
+branch  4 taken 3 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   96:
+        4:   97:        if (d % 9 == 0) cout << "[message] c < 0 && d div by 9"
+branch  0 taken 1 (fallthrough)
+branch  1 taken 3
+        1:   98:                      << "\n";
+call    0 returned 1
+branch  1 taken 1 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 1
+branch  4 taken 1 (fallthrough)
+branch  5 taken 0 (throw)
+        -:   99:        else cout << "[message] c < 0 && d not div by 9"
+        3:  100:                      << "\n";
+call    0 returned 3
+branch  1 taken 3 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 3
+branch  4 taken 3 (fallthrough)
+branch  5 taken 0 (throw)
+        -:  101:
+        4:  102:        if (d % 10 == 0) cout << "[message] c < 0 && d div by 10"
+branch  0 taken 1 (fallthrough)
+branch  1 taken 3
+        1:  103:                      << "\n";
+call    0 returned 1
+branch  1 taken 1 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 1
+branch  4 taken 1 (fallthrough)
+branch  5 taken 0 (throw)
+        -:  104:        else cout << "[message] c < 0 && d not div by 10"
+        3:  105:                      << "\n";
+call    0 returned 3
+branch  1 taken 3 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 3
+branch  4 taken 3 (fallthrough)
+branch  5 taken 0 (throw)
+        -:  106:
+        4:  107:        if (d % 11 == 0) cout << "[message] c < 0 && d div by 11"
+branch  0 taken 0 (fallthrough)
+branch  1 taken 4
+    #####:  108:                      << "\n";
+call    0 never executed
+branch  1 never executed
+branch  2 never executed
+call    3 never executed
+branch  4 never executed
+branch  5 never executed
+        -:  109:        else cout << "[message] c < 0 && d not div by 11"
+        4:  110:                      << "\n";
+call    0 returned 4
+branch  1 taken 4 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 4
+branch  4 taken 4 (fallthrough)
+branch  5 taken 0 (throw)
+        -:  111:    }
+        -:  112:
+       10:  113:    if (a >= 0)
+branch  0 taken 6 (fallthrough)
+branch  1 taken 4
+        -:  114:    {
+        6:  115:        if (b >= 0)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 5
+        -:  116:        {
+        -:  117:            std::cout << "[message] a >= 0 && b >= 0"
+        1:  118:                      << "\n";
+call    0 returned 1
+branch  1 taken 1 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 1
+branch  4 taken 1 (fallthrough)
+branch  5 taken 0 (throw)
+        -:  119:        }
+        -:  120:        else
+        -:  121:        {
+        -:  122:            std::cout << "[message] b < 0 && a >= 0."
+        5:  123:                      << "\n";
+call    0 returned 5
+branch  1 taken 5 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 5
+branch  4 taken 5 (fallthrough)
+branch  5 taken 0 (throw)
+        -:  124:        }
+        -:  125:    }
+        -:  126:    else
+        -:  127:    {
+        4:  128:        if (b >= 0)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 3
+        -:  129:        {
+        -:  130:            std::cout << "[message] a < 0 && b >= 0"
+        1:  131:                      << "\n";
+call    0 returned 1
+branch  1 taken 1 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 1
+branch  4 taken 1 (fallthrough)
+branch  5 taken 0 (throw)
+        -:  132:        }
+        -:  133:        else
+        -:  134:        {
+        -:  135:            std::cout << "[message] b < 0 && a < 0."
+        3:  136:                      << "\n";
+call    0 returned 3
+branch  1 taken 3 (fallthrough)
+branch  2 taken 0 (throw)
+call    3 returned 3
+branch  4 taken 3 (fallthrough)
+branch  5 taken 0 (throw)
+        -:  137:        }
+        -:  138:    }
+       10:  139:    return 0;
+function _GLOBAL__sub_I_main called 10 returned 100% blocks executed 100%
+function _Z41__static_initialization_and_destruction_0ii called 10 returned 100% blocks executed 100%
+       30:  140:}
+call    0 returned 10
+branch  1 taken 10 (fallthrough)
+branch  2 taken 0
+branch  3 taken 10 (fallthrough)
+branch  4 taken 0

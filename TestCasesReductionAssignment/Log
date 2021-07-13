@@ -1,0 +1,2413 @@
+File 'test/P.cpp'
+Lines executed:0.00% of 74
+Branches executed:0.00% of 232
+Taken at least once:0.00% of 232
+Calls executed:0.00% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:0.00% of 1
+No branches
+Calls executed:0.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d div by 6
+[message] c < 0 && d div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d not div by 3
+[message] c < 0 && d div by 4
+[message] c < 0 && d div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d div by 7
+[message] c < 0 && d div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d not div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d div by 10
+[message] c < 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d div by 5
+[message] c >= 0 && d div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d div by 10
+[message] c >= 0 && d not div by 11
+[message] a >= 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d div by 3
+[message] c < 0 && d div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d not div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d div by 3
+[message] c >= 0 && d div by 4
+[message] c >= 0 && d div by 5
+[message] c >= 0 && d div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d div by 9
+[message] c >= 0 && d div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d not div by 2
+[message] c < 0 && d div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d div by 3
+[message] c < 0 && d div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d div by 6
+[message] c < 0 && d div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d div by 3
+[message] c >= 0 && d div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d div by 8
+[message] c >= 0 && d div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] a >= 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d not div by 2
+[message] c < 0 && d not div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d not div by 2
+[message] c < 0 && d div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d not div by 3
+[message] c < 0 && d div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d div by 3
+[message] c < 0 && d div by 4
+[message] c < 0 && d div by 5
+[message] c < 0 && d div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d div by 10
+[message] c < 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d not div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d not div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d not div by 2
+[message] c < 0 && d not div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d not div by 3
+[message] c < 0 && d div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d div by 7
+[message] c < 0 && d div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d div by 5
+[message] c < 0 && d div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d div by 3
+[message] c < 0 && d div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d not div by 2
+[message] c < 0 && d div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d div by 5
+[message] c >= 0 && d div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d div by 9
+[message] c >= 0 && d div by 10
+[message] c >= 0 && d not div by 11
+[message] a >= 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d div by 10
+[message] c >= 0 && d div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d not div by 2
+[message] c < 0 && d not div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a >= 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d div by 10
+[message] c >= 0 && d not div by 11
+[message] a >= 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d not div by 2
+[message] c < 0 && d div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d not div by 2
+[message] c < 0 && d not div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a >= 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d div by 3
+[message] c >= 0 && d div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d div by 6
+[message] c >= 0 && d div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] a >= 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] a >= 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d not div by 2
+[message] c < 0 && d not div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d not div by 3
+[message] c < 0 && d div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d div by 3
+[message] c >= 0 && d div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] a >= 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] a >= 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d not div by 3
+[message] c < 0 && d div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d div by 3
+[message] c >= 0 && d div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d div by 3
+[message] c >= 0 && d div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] a >= 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] a >= 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d not div by 2
+[message] c < 0 && d not div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d not div by 2
+[message] c < 0 && d not div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] a >= 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a >= 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] a >= 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d not div by 3
+[message] c < 0 && d div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] a >= 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d not div by 3
+[message] c < 0 && d div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d not div by 3
+[message] c < 0 && d div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a >= 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d not div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d div by 3
+[message] c >= 0 && d div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d div by 8
+[message] c >= 0 && d div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d not div by 2
+[message] c < 0 && d not div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d not div by 2
+[message] c < 0 && d not div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d not div by 6
+[message] c < 0 && d div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d div by 3
+[message] c < 0 && d not div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d div by 3
+[message] c < 0 && d div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d div by 3
+[message] c >= 0 && d div by 4
+[message] c >= 0 && d div by 5
+[message] c >= 0 && d div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d div by 8
+[message] c >= 0 && d div by 9
+[message] c >= 0 && d div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d div by 3
+[message] c < 0 && d div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] a < 0 && b >= 0
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d div by 3
+[message] c >= 0 && d div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c < 0 && d div by 2
+[message] c < 0 && d div by 3
+[message] c < 0 && d div by 4
+[message] c < 0 && d not div by 5
+[message] c < 0 && d div by 6
+[message] c < 0 && d not div by 7
+[message] c < 0 && d not div by 8
+[message] c < 0 && d not div by 9
+[message] c < 0 && d not div by 10
+[message] c < 0 && d not div by 11
+[message] b < 0 && a < 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d not div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d not div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
+[message] c >= 0 && d not div by 2
+[message] c >= 0 && d div by 3
+[message] c >= 0 && d not div by 4
+[message] c >= 0 && d not div by 5
+[message] c >= 0 && d not div by 6
+[message] c >= 0 && d div by 7
+[message] c >= 0 && d not div by 8
+[message] c >= 0 && d not div by 9
+[message] c >= 0 && d not div by 10
+[message] c >= 0 && d not div by 11
+[message] b < 0 && a >= 0.
+File 'test/P.cpp'
+Lines executed:40.54% of 74
+Branches executed:33.62% of 232
+Taken at least once:16.81% of 232
+Calls executed:27.47% of 91
+Creating 'P.cpp.gcov'
+
+File '/usr/include/c++/7/iostream'
+Lines executed:100.00% of 1
+No branches
+Calls executed:100.00% of 2
+Creating 'iostream.gcov'
+
